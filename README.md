@@ -4,7 +4,6 @@ This project is intended to provide programmers with an easy way to build their 
 ![This is a screenshot.](images.png)
 # How to run
 Make sure you have at least JDK 17 or later installed and either MySQL/MariaDB installed or on a Docker container!
-- Download the project from github.
 - Open up your favorite IDE that supports Java, JavaScript, HTML, etc.
 - Have an open connection to your database (usually port 3306). Leave default settings (no password), as this is just a demo
 - Run the main method in the Developer Portfolio's Application class "DevPortfolioApplication.java".
@@ -14,7 +13,7 @@ Make sure you have at least JDK 17 or later installed and either MySQL/MariaDB i
 Follow this project board to know the latest status of the project: [http://...]([http://...])  
 
 ### How to build
-- Use this github repository: ... 
+- Use this github repository: [https://github.com/cis3296f25/projects-JesseHerrera04.git]([https://github.com/cis3296f25/projects-JesseHerrera04.git])
 - Use the main branch for the stable release  
 - Use InteliJ or VS Code to open the project
 - Using terminal or cmd prompt, navigate to the project root directory (for simplicity, use your IDE's to avoid having to navigate to it) 
