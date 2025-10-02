@@ -10,7 +10,7 @@ Make sure you have at least JDK 17 or later installed and either MySQL/MariaDB i
 - Go to http://localhost:3000 in your browser, and begin using the website.
 
 # How to contribute
-Follow this project board to know the latest status of the project: [[http://...]([http://...])](https://github.com/orgs/cis3296f25/projects/40)  
+Follow this project board to know the latest status of the project: https://github.com/orgs/cis3296f25/projects/40
 
 ### How to build
 - Use this github repository: [https://github.com/cis3296f25/projects-JesseHerrera04.git]([https://github.com/cis3296f25/projects-JesseHerrera04.git])
