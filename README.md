@@ -15,7 +15,7 @@ Follow this project board to know the latest status of the project: https://gith
 ### How to build
 - Use this github repository and clone it: https://github.com/cis3296f25/projects-JesseHerrera04.git
 - Use the main branch for the stable release  
-- Use InteliJ or VS Code to open the project
+- Use IntelliJ, VS Code, or any compatible IDE to open the project
 - Using terminal or cmd prompt, navigate to the project root directory (for simplicity, use your IDE's to avoid having to navigate to it) 
 - Run command "mvn install" to build and package the maven project (recommended to run "mvn clean" prior to have a clean slate)
 - Optional: Install Apache Maven version 3.6.3 or later. Project comes included with Maven Wrapper, so not necessary.
