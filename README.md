@@ -3,9 +3,10 @@ This project is intended to provide programmers with an easy way to build their 
 
 ![This is a screenshot.](images.png)
 # How to run
-Make sure you have at least JDK 17 or later installed and either MySQL installed or on a Docker container  
+Make sure you have at least JDK 17 or later installed and either MySQL/MariaDB installed or on a Docker container!
 - Download the project from github.
 - Open up your favorite IDE that supports Java, JavaScript, HTML, etc.
+- Have an open connection to your database (usually port 3306). Leave default settings (no password), as this is just a demo
 - Run the main method in the Developer Portfolio's Application class "DevPortfolioApplication.java".
 - Go to http://localhost:3000 in your browser, and begin using the website.
 
